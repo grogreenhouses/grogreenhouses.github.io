@@ -5,4 +5,4 @@ color: white   #text color
 fa-icon: envelope-o
 ---
 
-### Email: <a href="mailto:GROgreenhouseshese@gmail.com"> GROgreenhouseshese@gmail.com </a>
+### e-mail: <a href="mailto:GROgreenhouseshese@gmail.com"> GROgreenhouseshese@gmail.com </a>
