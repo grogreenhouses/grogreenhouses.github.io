@@ -1,5 +1,15 @@
 **How to update website**
 
+1. "cd <website's directory>" - Change Directory to where your website is
+2. "git status" - to find out what files are untracked and modified
+3. "git add <filename>" or "git rm <filename>" f- or files that Git isn't tracking
+4. "git add -u" - to make sure all modified files will be commit
+5. "git status" - to make sure and doublecheck nothing else needs to be added or removed
+6. "git commit -m "<put a comment for what you did>" - commit changes
+7. "git push -u origin master" - push all changes to online
+
+**Sample code**
+
 Last login: Wed Dec  3 11:04:04 on ttys001
 Edwards-MacBook-Air:~ edwardchan$ ls
 AndroidStudioProjects	Desktop			Documents		Dropbox			Movies			Pictures
