@@ -5,4 +5,4 @@ color: white   #text color
 fa-icon: fa-smile-o
 ---
 
-### Email: GROgreenhouseshese@gmail.com
+### Email: <a href="mailto:GROgreenhouseshese@gmail.com"> GROgreenhouseshese@gmail.com </a>
