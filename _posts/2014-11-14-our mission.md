@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Our Mission"
 bg: HoneyDew   #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
 fa-icon: 
