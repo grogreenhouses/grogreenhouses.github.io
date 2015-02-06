@@ -132,6 +132,12 @@ nav ul {
   letter-spacing:-4px;
 }
 
+aside {
+  float: left;
+  margin: 0 1.5%;
+  width: 30%;
+}
+
 nav ul li {
   display:inline-block;
   border-top:{{navborder}}px solid;
@@ -178,6 +184,8 @@ nav ul li:hover, nav ul li.active {
 .section:first-of-type {
     padding-top: 140px;
 }
+
+
 
 
 #footer {
